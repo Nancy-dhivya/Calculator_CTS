@@ -27,3 +27,8 @@ while True:
             break
     else:
         print("Invalid Input")
+# main.py
+import user_interface
+
+if _name_ == "_main_":
+    user_interface.main()      
